@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="seckill"
+  id="myeclipse.1512816209184"
+  context-root="/seckill"
+  j2ee-spec="1.7"
+  archive="seckill.war">
+  <attributes>
+    <attribute name="webrootdir" value="src/main/webapp" />
+  </attributes>
+</project-module>
+
